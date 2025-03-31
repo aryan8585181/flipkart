@@ -1,0 +1,33 @@
+.inp{
+    width: 80%;
+    height: 30px; 
+    margin-top: 30px;
+}
+
+.m1{
+    box-shadow:  10px 10px px rgba(0, 0, 0, 0.5);
+    
+}
+.m2{
+    margin-top:20px;
+    margin-left: 30px;
+}
+
+.log2btn1{
+    width: 81%;
+    height: 30px;
+    background-color: yellow;
+    border: none;
+    margin-top: 40px;
+}
+.nta{
+    margin-top: 30px;
+    margin-left: 80px;
+}
+.log2btn2{
+    width: 81%;
+    height: 30px;
+    background-color:gray;
+    border: none;
+    margin-top: 10px;
+}

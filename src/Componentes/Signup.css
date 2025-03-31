@@ -1,0 +1,54 @@
+*{
+    font-weight: 100;
+   
+}
+.m1{
+    border: 1px solid black;
+    width: 25%;
+    height: 500px;
+    position: absolute;
+    top: 120px;
+    left: 500px;
+    border-radius: 15px;
+    box-shadow:  10px 10px 5px rgba(0, 0, 0, 0.5);
+}
+.sel{
+    margin-top: 80px;
+}
+.signup-btn button{
+    width: 80%;
+    height: 30px;
+    background-color: rgb(245, 245, 40);
+    border: none;
+    margin-top: 20px;
+}
+
+.sign-inp{
+    width: 80%;
+    height: 30px;
+    
+}
+.hr{
+    margin-top: 30px;
+    width: 80%;
+    margin-left: 30px;
+}
+.bfw{
+    margin-top: 10px;
+}
+.btn2{
+    position: absolute;
+    bottom: 40px;
+    left: 500px;
+    width: 25%;
+    height: 30px;
+    border-radius: 15px;
+    border: none;
+}
+.signin{
+    margin-left: 30px;
+    margin-top: 10px;
+}
+.allinput input{
+    margin-top: 25px;
+}

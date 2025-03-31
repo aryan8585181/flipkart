@@ -1,0 +1,79 @@
+
+.l1{
+    height: 550px;
+    width: 25%;
+    background-color:#2370f4;
+    position: absolute;
+    left: 260px;
+    box-shadow:  15px rgba(0, 0, 0, 0.5);
+  }
+  .l2{
+    height: 550px;
+    width: 35%;
+   /* background-color:antiquewhite; */
+    position: absolute;
+    top: 70px;
+    left: 600px;
+    box-shadow: 10px 10px 15px rgba(0, 0, 0, 0.5);
+  }
+  .inplogin{
+    width: 85%;
+    border: none;
+    height: 50px;
+    border-bottom: 1px solid #2370f4;
+    position: absolute;
+    top: 60px;
+    left: 30px;
+  }
+  .inplogin::placeholder{
+    margin-bottom: 20px;
+  }
+  .logtxt h5{
+    font-weight: 100;
+    color: rgb(88, 88, 88);
+
+  }
+  
+
+  .logbtn button{
+    background-color:#fb641b;
+    width: 85%;
+    height: 40px;
+    color: white;
+    border: none;
+  }
+  .l1 h1{
+    color: white;
+    font-weight: 100;
+  }
+  .l1txt{
+    position: absolute;
+    left: 30px;
+    top: 50px;
+   
+  }
+  .l1 h3{
+    color: rgb(216, 210, 210);
+    font-weight: 100;
+  }
+  .logtxt{
+    position: absolute;
+    top: 150px;
+    left: 30px;
+  }
+  .logbtn{
+    position: absolute;
+    top: 180px;
+    left: 30px;
+    width: 100%;
+   
+  }
+  .ntf{
+    /* border: 1px solid black; */
+    position: absolute;
+    bottom: 50px;
+    left: 110px;
+    color: blue;
+    font-weight: 100;
+  }
+  
